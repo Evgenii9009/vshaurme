@@ -3,5 +3,7 @@ cat .gitignore
 /.idea
 /.vscode
 /.DS_Store
-db.sqlite3
-another_db.sqlite3
+
+/db/*.sqlite3
+
+/another_db/*.sqlite3
